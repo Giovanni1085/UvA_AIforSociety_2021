@@ -1,3 +1,21 @@
+# Custom
+materials_notonline/*
+.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
+
+# all solution notebooks
+**/*SOLUTION*
+
+# assignmennt 1
+assignment_1/dataset/*
+
+# assignmennt 2
+
+
+# assignmennt 3
+assignment_3/img-videos/*
+assignment_3/dataset/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
