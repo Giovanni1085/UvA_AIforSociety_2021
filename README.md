@@ -1,6 +1,6 @@
 # UvA AI for Society 2021
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/UvA_AIforSociety_2021/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/UvA_AIforSociety_2021/main)
 
 ## Contents
 
