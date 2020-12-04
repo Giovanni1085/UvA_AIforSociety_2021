@@ -22,7 +22,7 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 
 ### Dependencies
 
-All the notebooks have been tested using a conda environment with the packages as per the [requirements](`requirements.txt`). This file was in turn created via `pip freeze > requirements.txt`.
+All the notebooks have been tested using a conda environment with the packages as per the [requirements](`requirements.txt`). This file was in turn created via `pip list --format=freeze > requirements.txt`.
 
 ### Further reading
 
