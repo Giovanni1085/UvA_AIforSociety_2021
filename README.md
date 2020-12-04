@@ -20,6 +20,10 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 
 * Option 2 (advanced): work directly with git and conda. See this [guide to setup your environment](https://github.com/Giovanni1085/UvA_CDH_2020/blob/master/setup.md) for more info.
 
+### Dependencies
+
+All the notebooks have been tested using a conda environment with the packages as per the [requirements](`requirements.txt`). This file was in turn created via `pip freeze > requirements.txt`.
+
 ### Further reading
 
 * [More on conda enviroments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
