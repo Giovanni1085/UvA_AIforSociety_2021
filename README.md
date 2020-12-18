@@ -4,9 +4,11 @@
 
 ## Contents
 
-TBD
+This repository contains the code and assignmennts for the course: *AI for Society*, edition 2021, taught at the University of Amsterdam.
 
-## Set-up
+Weekly assignments are contained into the folders as given by the names. Extra code used during classes is also given there. (Partial) solutions and grades are, instead, given via Canvas.
+
+## Setting-up your Python environment
 
 ### Editor
 
@@ -30,7 +32,3 @@ All the notebooks have been tested using a conda environment with the packages a
 * [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 * [Getting started with Jupyter notebooks](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 * [On using git and GitHub for version control](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch02git)
-
-## Acknowledgements
-
-TBD
