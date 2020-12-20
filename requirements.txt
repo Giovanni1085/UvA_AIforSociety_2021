@@ -34,9 +34,6 @@ lxml==4.6.2
 MarkupSafe==1.1.1
 matplotlib==3.3.2
 mistune==0.8.4
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
 mlxtend==0.18.0
 nb-conda==2.2.1
 nb-conda-kernels==2.3.0
