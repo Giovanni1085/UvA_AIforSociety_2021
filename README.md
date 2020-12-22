@@ -1,7 +1,5 @@
 # UvA AI for Society 2021
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/UvA_AIforSociety_2021/main)
-
 ## Contents
 
 This repository contains the code and assignmennts for the course: *AI for Society*, edition 2021, taught at the University of Amsterdam.
