@@ -13,7 +13,7 @@ assignment_1/dataset/*
 assignment_2/gender_bias_lipstick/data/embeddings*
 
 # assignmennt 3
-assignment_3/img-videos/*
+#assignment_3/img-videos/*
 #assignment_3/dataset/*
 
 # Byte-compiled / optimized / DLL files
