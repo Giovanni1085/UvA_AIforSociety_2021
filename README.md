@@ -1,7 +1,5 @@
 # UvA AI for Society 2021
 
-## Contents
-
 This repository contains the code and assignmennts for the course: *AI for Society* 2021 edition, taught at the University of Amsterdam.
 
 ## Syllabus
